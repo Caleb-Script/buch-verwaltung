@@ -2,7 +2,7 @@
   "name": "buch",
   "version": "2024.04.0",
   "description": "Beispiel",
-  "author": "Juergen Zimmermann",
+  "author": "Caleb Gyamfi",
   "private": true,
   "license": "GPL-3.0",
   "exports": "./dist/src/main.js",

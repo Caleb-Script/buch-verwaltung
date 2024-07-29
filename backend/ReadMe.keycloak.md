@@ -1,7 +1,7 @@
 # Hinweise zu Keycloak als "Identity Management and Access" System
 
 <!--
-  Copyright (C) 2024 - present Juergen Zimmermann, Hochschule Karlsruhe
+  Copyright (C) 2024 - present Caleb Gyamfi, Hochschule Karlsruhe
 
   This program is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by
@@ -17,7 +17,7 @@
   along with this program. If not, see <http://www.gnu.org/licenses/>.
 -->
 
-[Juergen Zimmermann](mailto:Juergen.Zimmermann@h-ka.de)
+[Caleb Gyamfi](mailto:Juergen.Zimmermann@h-ka.de)
 
 > Diese Datei ist in Markdown geschrieben und kann mit `<Strg><Shift>v` in
 > VS Code leicht gelesen werden.

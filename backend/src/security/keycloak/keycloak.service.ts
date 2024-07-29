@@ -1,6 +1,6 @@
 /* eslint-disable camelcase, @typescript-eslint/naming-convention */
 /*
- * Copyright (C) 2024 - present Juergen Zimmermann, Hochschule Karlsruhe
+ * Copyright (C) 2024 - present Caleb Gyamfi, Hochschule Karlsruhe
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

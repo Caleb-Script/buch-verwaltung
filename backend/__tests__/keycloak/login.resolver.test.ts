@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-unsafe-assignment */
 /*
- * Copyright (C) 2021 - present Juergen Zimmermann, Hochschule Karlsruhe
+ * Copyright (C) 2021 - present Caleb Gyamfi, Hochschule Karlsruhe
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

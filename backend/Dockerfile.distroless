@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1.7.0
 
-# Copyright (C) 2023 - Juergen Zimmermann, Hochschule Karlsruhe
+# Copyright (C) 2023 - Caleb Gyamfi, Hochschule Karlsruhe
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

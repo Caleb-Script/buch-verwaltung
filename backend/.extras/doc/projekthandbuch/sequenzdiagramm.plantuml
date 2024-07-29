@@ -1,4 +1,4 @@
-' Copyright (C) 2023 - present Juergen Zimmermann, Hochschule Karlsruhe
+' Copyright (C) 2023 - present Caleb Gyamfi, Hochschule Karlsruhe
 '
 ' This program is free software: you can redistribute it and/or modify
 ' it under the terms of the GNU General Public License as published by
@@ -27,6 +27,6 @@ Gast -> BuchGetController : GET / getById()
 BuchGetController -> BuchReadService: findById()
 BuchReadService -> buch: [TypeORM]
 
-footer (c) Jürgen Zimmermann
+footer (c) Caleb Gyamfi
 
 @enduml

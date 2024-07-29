@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-unnecessary-condition */
 /*
- * Copyright (C) 2016 - present Juergen Zimmermann, Hochschule Karlsruhe
+ * Copyright (C) 2016 - present Caleb Gyamfi, Hochschule Karlsruhe
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
